@@ -1,0 +1,27 @@
+{
+  "name": "CV",
+  "version": "3.6.0",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "http://cv.hepeili.cn",
+  "license": "MIT",
+  "description": "The HTML Presentation Framework",
+  "authors": [
+    "PeriHe <hpl@hepeili.cn>"
+  ],
+  "dependencies": {
+    "headjs": "~1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PeriHe/CV.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}

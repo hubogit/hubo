@@ -1,0 +1,64 @@
+/*
+* @Author: 何佩莉
+* @Date:   2017-11-26 09:22:53
+* @Last Modified by:   何佩莉
+* @Last Modified time: 2017-11-30 14:26:39
+*/
+#avatar {
+  width: 200px;
+  height: 200px;
+  border: 5px solid #67949D;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%; }
+
+#name {
+  margin: 0.5em 0; }
+
+.reveal .title {
+  margin-bottom: 1.1em; }
+
+.reveal .date {
+  color: #ccc; }
+
+.imgleft {
+  height: 240px;
+  float: left; }
+
+.pfloat {
+  overflow: hidden; }
+
+.pfloat p {
+  padding-left: 20px; }
+
+.clearfix {
+  overflow: hidden; }
+
+.reveal .l1 {
+  font-size: 1.5em; 
+}
+
+.reveal .l2 {
+  font-size: 1.3em; 
+}
+
+.reveal .l3 {
+  font-size: 1.0em; }
+
+.reveal .l4 {
+  font-size: 0.8em; }
+
+.reveal .l5 {
+  font-size: 0.5em; }
+
+.reveal .l6 {
+  font-size: 0.3em; }
+
+.reveal ul {
+  font-size: 0.8em; 
+  margin: 20px;
+}
+.reveal ul li{
+  margin: 0.3em;
+}
